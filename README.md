@@ -96,6 +96,7 @@ print("RMSE= ",rmse)
 ![image](https://github.com/user-attachments/assets/faaad233-fe07-4cae-9810-c63282dc5ef2)
 ### Training Set Graph
 <img src="https://github.com/user-attachments/assets/e0cb1e69-1b88-4fb2-96c6-10ffbb1f7333" width="300"/>
+
 ### Test Set Graph
 ![image](https://github.com/user-attachments/assets/0f10af88-1007-48aa-b9ed-ce9e68046684)
 ### Values of MSE, MAE and RMSE
